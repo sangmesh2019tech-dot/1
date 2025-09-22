@@ -1,5 +1,7 @@
+flask
 streamlit
 yfinance
 requests
 pandas
 numpy
+
